@@ -1,0 +1,52 @@
+<!-- <h3 *ngIf="products; else noProduct">{{title}}</h3> -->
+<app-category></app-category>
+<br>
+<div class="container-fluid" style="padding: 0rem;">
+    <div class="form-group">
+        <input   class="form-control" id="exampleInputEmail1" placeholder="Arama Metnini Giriniz"
+        [(ngModel)] = "filterText"/>
+        <small *ngIf="filterText"  class="form-text text-muted">Su an <strong>{{filterText}}</strong> Aradiniz</small>
+      </div>
+</div>
+
+<h3 *ngIf="products; else noProduct">{{title}}</h3>
+<ng-template #noProduct>
+    <div class="row">
+        <div class="col-md-2">
+            <div class="alert alert-primary" role="alert">
+                Bu Kategoride Ürün Yoktur
+              </div>
+        </div>
+        
+    </div>
+    
+    
+</ng-template>
+<div class="row">
+    <div *ngFor="let product of products | productFilter:filterText
+    " class="productbox card" style="width: 18rem;">
+        <img class="card-img-top" [src]="product.imageUrl"  alt="Card İmage cap" style="width: 18rem; height: 15rem;">
+        <div class="card-body">
+            <h5 class="card-title">{{product.name}}</h5>
+            <p class="card-text" style="width: 16rem; height: 3rem;">{{product.description }}</p>
+            <br>
+            <div class="btn-group" role="group" aria-label="Basic example">
+                <button  (click)="addToCard(product)" type="button" class="btn btn-secondary">Sepete Ekle</button>
+                <button (click)="getNavigation('app-details',product.id)" type="button" class="btn btn-success">Ayrintilar</button>
+              </div>
+             
+            
+        </div>
+        <div class="container-sm " >
+        <div class="col-md-10 float-right">
+            <h5 class="card-title" >{{product.price | currency:' ':false:"1.0-2"}} ₺</h5>
+        </div>
+            
+        </div>
+        
+        
+    </div>
+   
+
+</div>
+

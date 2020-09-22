@@ -1,0 +1,201 @@
+{
+  "products": [
+    {
+      "amount": 0,
+      "name": "Barbara Palvin",
+      "description": "barbara manken olan",
+      "imageUrl": "https://www.aysetolga.com/wp-content/uploads/2019/08/parpara-palvin.jpg",
+      "price": "299",
+      "categoryid": "1",
+      "id": 9,
+      "detailThing": 0
+    },
+    {
+      "amount": 0,
+      "name": "Gerald Of Rivia",
+      "description": "Witcherlarin en unlusu ve en yeteneklilerinden namideger \"White Wolf\"",
+      "imageUrl": "https://i.ytimg.com/vi/nRAJldj4hiU/maxresdefault.jpg",
+      "price": "100000",
+      "categoryid": "2",
+      "id": 10,
+      "detailThing": 0
+    },
+    {
+      "amount": 0,
+      "name": "Steel Series Arctis 3",
+      "description": "Oyuncu kulakligi",
+      "imageUrl": "https://media.steelseriescdn.com/thumbs/filer_public/90/7f/907f4761-3b7c-4dc0-9095-1396f5c236fe/purchase-gallery-arctis-3-2019-black-hero.png__1850x800_q100_crop-scale_optimize_subsampling-2.png",
+      "price": "300",
+      "categoryId": "3",
+      "id": 12,
+      "detailThing": 0
+    },
+    {
+      "amount": 0,
+      "name": "Charizard",
+      "description": "Guclu bir alev pokemonu",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3A1I-WsBq9Ol-JBmPwxQfxuWwD4jdueWx0FeGskNvr9OtXD9y&usqp=CAU",
+      "price": "20000",
+      "categoryid": "2",
+      "id": 13,
+      "detailThing": 0
+    },
+    {
+      "amount": 0,
+      "name": "Acun Ilıcalı",
+      "description": "Medya program televizyon",
+      "imageUrl": "https://iasbh.tmgrup.com.tr/5e2455/366/218/48/0/466/249?u=https://isbh.tmgrup.com.tr/sbh/2018/01/31/acun-ilicali-kimdir-1517381876384.jpg",
+      "price": "1250",
+      "categoryid": "1",
+      "id": 14,
+      "detailThing": 0
+    },
+    {
+      "amount": 0,
+      "name": "Iron Man",
+      "description": "Iron Man, 2008 yapımı, Marvel Comics Şirketi’nin yayınladığı ilk Marvel Sinematik Evreni filmidir.",
+      "imageUrl": "https://i4.hurimg.com/i/hurriyet/75/750x422/5a9f9acb2269a217d830aeb8.jpg",
+      "price": "1000000",
+      "categoryid": "3",
+      "id": 15,
+      "detailThing": 0
+    },
+    {
+      "amount": 0,
+      "name": "CZN Burak",
+      "description": "CZNBurak lakaplı Burak Özdemir, Hatay Medeniyetler Sofrasi Aksaray'ın sahibi olan Türk bir şef ve restorant.",
+      "imageUrl": "https://i2.haber7.net//haber/haber7/photos/2020/06/czn_buraktan_cocukluk_yillarina_ait_paylasim_begeni_yagmuruna_tutuldu_1581055170_0824.jpg",
+      "price": "150",
+      "categoryid": "1",
+      "id": 17,
+      "detailThing": 0
+    },
+    {
+      "amount": 0,
+      "name": "Yüce Lider RTE",
+      "description": "Recep Tayyip Erdoğan, Türk siyasetçi, Adalet ve Kalkınma Partisi'nin genel başkanı, Türkiye'nin 12. ve günümüzdeki cumhurbaşkanı",
+      "imageUrl": "https://haberport.com/images/haberler/2020/02/ruyada-cumhurbaskani-recep-tayyip-erdogani-gormek-ne-demektir-ruyada-cumhurbaskani-recep-tayyip-erdogani-gormenin-anlami-ve-tabiri.jpg",
+      "price": "120",
+      "categoryid": "1",
+      "id": 16,
+      "detailThing": 0
+    },
+    {
+      "amount": 0,
+      "name": "Aykut Elmas",
+      "description": "Hocam aykut uç yiyoo",
+      "imageUrl": "https://pbs.twimg.com/media/DVTHxzpWsAADjpZ.jpg",
+      "price": "2000",
+      "categoryId": "1",
+      "id": 18,
+      "detailThing": 0
+    },
+    {
+      "name": "İDRİS DEMİR",
+      "description": "boş beleş insan",
+      "imageUrl": "https://scontent.fist4-1.fna.fbcdn.net/v/t1.0-9/487568_540053939396506_989300397_n.jpg?_nc_cat=108&_nc_sid=09cbfe&_nc_ohc=_BIuhwg_p44AX_2lIRW&_nc_ht=scontent.fist4-1.fna&oh=0f36755aed85257ea811a7e9aa6dedf9&oe=5ED238E9",
+      "price": "125",
+      "categoryId": "2",
+      "id": 19
+    },
+    {
+      "name": "OMER OZIYISAN",
+      "description": "ben anlamam işerim",
+      "imageUrl": "https://scontent.fist4-1.fna.fbcdn.net/v/t1.0-9/13887076_114484562331280_2554894816956993145_n.jpg?_nc_cat=108&_nc_sid=e3f864&_nc_ohc=FmiXpsWLFD4AX-Ino2G&_nc_ht=scontent.fist4-1.fna&oh=8e098e135a5f076aa257fca3b51fbf1b&oe=5ED13476",
+      "price": "112",
+      "categoryId": "3",
+      "id": 20
+    },
+    {
+      "name": "burcu",
+      "description": "gergin ve gerici",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fbrcglsntrk&psig=AOvVaw1wLTtME-XblPBt3vqM-4sh&ust=1597488279011000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjfnt7BmusCFQAAAAAdAAAAABAD",
+      "price": "2250",
+      "categoryId": "1",
+      "id": 21
+    },
+    {
+      "name": "burcu",
+      "description": "gergin ve gerici",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fbrcglsntrk&psig=AOvVaw1wLTtME-XblPBt3vqM-4sh&ust=1597488279011000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjfnt7BmusCFQAAAAAdAAAAABAD",
+      "price": "2000",
+      "categoryId": "1",
+      "id": 22
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "ismail",
+      "lastName": "Senturk",
+      "userName": "ismail64",
+      "email": "serus2003@gmail.com",
+      "address": "turgutlu"
+    },
+    {
+      "name": "ismail",
+      "lastName": "şentürk",
+      "email": "serus2003@gmail.com",
+      "address": "Cumhuriyet mahallesi selçuklu sk, bilgen apt no 33 kat 3 daire 5",
+      "userName": "dsad",
+      "id": 2
+    },
+    {
+      "name": "Fatma",
+      "lastName": "şentürk",
+      "email": "serus2003@gmail.com",
+      "address": "Halil Kaya Gedik Bulvari Pinar Cami Sokak Inay Apt Kat3 Daire 7",
+      "userName": "cilginfato",
+      "id": 3
+    },
+    {
+      "name": "ismail",
+      "lastName": "şentürk",
+      "email": "serus2003@gmail.com",
+      "address": "Cumhuriyet mahallesi selçuklu sk, bilgen apt no 33 kat 3 daire 5",
+      "userName": "siiki;s",
+      "id": 4
+    },
+    {
+      "name": "mehmethan",
+      "lastName": "güler",
+      "userName": "Zeria",
+      "email": "mehmet.han.31@hotmail.com",
+      "address": "Anafartalar, alsan çarşısı, ulus, Sanayi Cd. No:49 D:no 10, 06050 Altındağ",
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "İnsan"
+    },
+    {
+      "id": 2,
+      "name": "Hayvan"
+    },
+    {
+      "id": 3,
+      "name": "Elektronik"
+    },
+    {
+      "id": 4,
+      "name": "Kitap"
+    },
+    {
+      "id": 5,
+      "name": "Müzik"
+    }
+  ],
+  "cart": [],
+  "users": [
+    {
+      "firstName": "ismail",
+      "lastName": "şentürk",
+      "username": "ismail",
+      "password": "sntrk1",
+      "id": 1
+    }
+  ],
+  "authenticate": []
+}

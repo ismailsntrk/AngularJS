@@ -1,0 +1,20 @@
+<nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+
+    <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Senturkler Ticaret</a>
+    <nav class="nav d-flex justify-content-between">
+        <a  class="p-2 text-muted"
+            routerLink="/products">Tum Urunler</a>
+        <a *ngFor="let category of categories " class="p-2 text-muted"
+            routerLink="/products/category/{{category.id}}">{{category.name}}</a>
+    </nav>
+    <ul class="navbar-nav px-3">
+        <li class="nav-item text-nowrap">
+            <a *ngIf="isLoggedin()==null;" class="nav-link" routerLink="/login">
+                Login
+              </a>
+              <!-- <a #loggedOut class="nav-link" (click)="logOut()">
+                Logout
+              </a> -->
+        </li>
+    </ul>
+</nav> 
